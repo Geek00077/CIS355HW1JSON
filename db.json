@@ -1,0 +1,45 @@
+{"slugCats": [{
+    "id": 0,
+    "slugType": "Monk",
+    "description": "This is the easy mode of slugcats having a nearly identical campaign to the survivor with the exception that mobs kind of ignore you."
+},
+{
+    "id": 1,
+    "slugType": "Survivor",
+    "description": "This is the regular difficulty of Rainworld, past this campaign it only gets more difficult. "
+},
+{
+    "id": 2,
+    "slugType": "Hunter",
+    "description": "This campaign is the hard mode of Rainworld as in order to beat the game on this mode have to go to nearly every region."
+},
+{
+    "id": 3,
+    "slugType": "Gourmand",
+    "description": "This is a dlc cat, that allows you to craft, combine food, crush enemies, and throw powerful blows"
+},
+{
+    "id": 4,
+    "slugType": "Artificer",
+    "description": "Like the gourmand, this cat can craft, however specifically you craft explosives to hunt those who've wronged you and you get a cool double jump"
+},
+{
+    "id": 5,
+    "slugType": "Spearmaster",
+    "description": "This cat can make spears from it's tail like a porcupine would and eats by hitting creatures with the spear, equipped to be the message bearer in a dangerous world"
+},
+{
+    "id": 6,
+    "slugType": "Rivulet",
+    "description": "With the world being particularly rainy in this cat's campaign it moves much faster, jumps higher, and can breathe longer underwater, something crucial for giving a heart transplant"
+},
+{
+    "id": 7,
+    "slugType": "Saint",
+    "description":"This cat is built for the cold, the world having frozen over in it's campaign, equipped with a tongue to get around and avoid violence as this cat is vegan"
+},
+{
+    "id": 8,
+    "slugType": "Watcher",
+    "description": "This cat ends up with weird powers bestowed by the ghost of a god and can choose to help three seperate entities."
+}]}
